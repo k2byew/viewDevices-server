@@ -1,0 +1,1 @@
+* * * * * python /home/USERNAME/main.py >/dev/null 2>&1
